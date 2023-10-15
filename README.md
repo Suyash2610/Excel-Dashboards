@@ -1,4 +1,3 @@
-# Excel Dashboards
 
 Welcome to the "Excel Dashboards" repository. This repository contains three Excel dashboards for various analytics purposes.
 
