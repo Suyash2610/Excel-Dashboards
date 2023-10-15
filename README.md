@@ -20,3 +20,6 @@ The Finance Analysis Dashboard is a powerful tool for financial analysts. It pro
 The Customer Service Dashboard helps you monitor and improve customer satisfaction. It tracks customer service performance, Satisfaction trends, and Agent wise performence matrix, enabling you to provide top-notch service.
 
 
+## Created by 
+### Suyash Pandey
+
